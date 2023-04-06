@@ -54,3 +54,8 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 
 https://drive.google.com/drive/folders/11FORyBhu2aJGPhaXxFn21JpPbZY89CNB
+
+- Pertemuan 3
+link = https://youtu.be/nQzxzIZk1Gw
+- Pertemuan 4
+link = https://youtu.be/6b3rcQr-H20 
